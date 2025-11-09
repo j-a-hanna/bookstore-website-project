@@ -1,8 +1,3 @@
-✍️ Author
-
-J Hanna
-University of Massachusetts Lowell
-INFO 2480 — Website Database Implementation
 
 # UML INFO 2480 — Bookstore Website Project
 
@@ -117,7 +112,11 @@ HTML5 / CSS3
 
 Git / GitHub for version control
 
+✍️ Author
 
+Jeanette Attia Hanna
+University of Massachusetts Lowell
+INFO 2480 — Website Database Implementation
 
 
 
